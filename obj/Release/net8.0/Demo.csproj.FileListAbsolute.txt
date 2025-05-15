@@ -67,8 +67,8 @@ D:\AJITH\repo\Demo2\obj\Release\net8.0\Demo.pdb
 D:\AJITH\repo\Demo2\obj\Release\net8.0\Demo.genruntimeconfig.cache
 D:\AJITH\repo\Demo2\obj\Release\net8.0\ref\Demo.dll
 C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\appsettings.json
-C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\Demo.staticwebassets.endpoints.json
 C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\Demo.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\Demo.staticwebassets.endpoints.json
 C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\Demo.exe
 C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\Demo.deps.json
 C:\Users\DELL\Downloads\Demo2\Demo2\bin\Release\net8.0\Demo.runtimeconfig.json
